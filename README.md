@@ -1,2 +1,2 @@
 # mvp
-duplicated
+deprecated
